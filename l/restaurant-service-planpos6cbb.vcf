@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-10-19T21:37:29Z
+N;CHARSET=utf-8:Restaurant Service;PlanPOS;;;
+FN;CHARSET=utf-8:PlanPOS Restaurant Service
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+EMAIL;INTERNET:info@planpos.com
+URL:https://planpos.com/
+ORG;CHARSET=utf-8:PlanPOS
+TITLE;CHARSET=utf-8:Sales Team
+BDAY:
+NOTE;CHARSET=utf-8:Restaurant, Online Food Ordering Service
+TEL:201020256619
+URL;TYPE=facebook:https://www.facebook.com/PlanPOSF
+URL;TYPE=Whatsapp:https://wa.me/201020256619
+END:VCARD

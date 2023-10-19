@@ -1,0 +1,17 @@
+.intl-tel-input.iti-rtl {
+    direction: rtl; }
+    .intl-tel-input.iti-rtl input, .intl-tel-input.iti-rtl input[type=text], .intl-tel-input.iti-rtl input[type=tel] {
+      padding-left: 0;
+      padding-right: 48px;
+      direction: ltr !important;
+      text-align: right; }
+    .intl-tel-input.iti-rtl .selected-flag {
+      padding-left: 0; }
+      .intl-tel-input.iti-rtl .selected-flag .iti-flag {
+        left: 8px; }
+    .intl-tel-input.iti-rtl .country-list .flag, .intl-tel-input.iti-rtl .country-list .country-name {
+      margin-left: 6px;
+      margin-right: 0; }
+    .intl-tel-input.iti-rtl .country-list .dial-code {
+      direction: ltr;
+}
